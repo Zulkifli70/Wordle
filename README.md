@@ -1,4 +1,9 @@
 # Getting Started
+
+## Link Demo
+
+https://zulkwordle.netlify.app/
+
 Install the dependencies and run the project
 ```
 npm install
